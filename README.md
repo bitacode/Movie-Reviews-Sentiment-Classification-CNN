@@ -17,6 +17,6 @@ The CNN model achieved a training loss of 0.3791 with an accuracy of 88.4%. On t
 For the positive class, the model obtained a precision of 0.85, a recall of 0.83, and an F1-score of 0.84. The negative class resulted in a precision of 0.82, recall of 0.81, and an F1-score of 0.81. The neutral class had a lower performance, with a precision of 0.69, recall of 0.71, and an F1-score of 0.70. The macro and weighted averages for precision, recall, and F1-score were all consistent at 0.78, indicating balanced performance across all classes.
 
 ## Prospects
-The CNN model layers can be further customized to increase complexity, allowing it to capture more intricate patterns in the data. Additionally, techniques such as regularization, learning rate scheduler, and early stopping parameters can be adjusted to help overcome the overfitting observed in the validation results. These improvements could potentially enhance the model's generalization performance and increase its overall accuracy.
+The CNN model layers can be further customized to increase complexity, allowing it to capture more intricate patterns in the data. Additionally, techniques such as regularization, learning rate scheduling, and early stopping can be adjusted to help overcome the overfitting observed in the validation results. These improvements could potentially enhance the model's generalization performance and increase its overall accuracy.
 
 
